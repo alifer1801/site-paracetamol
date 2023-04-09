@@ -1,2 +1,2 @@
-# site-paracetamol
+# site_paracetamol
 informações básicas
